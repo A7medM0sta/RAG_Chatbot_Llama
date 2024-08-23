@@ -1,6 +1,6 @@
 # RAG_Chatbot_Llama3
 
-![LLAMA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40hellolasantha%2Fqna-rag-application-using-large-lanaguage-model-llm-langchain-ollama-llama2-vectordb-fbc87d3139f6&psig=AOvVaw0W5K3i4pZ9WfIZ55xA-3us&ust=1724488579816000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDFyNzaiogDFQAAAAAdAAAAABAE)
+![LLAMA](figures/images.jpeg)
 
 ## Introduction
 
