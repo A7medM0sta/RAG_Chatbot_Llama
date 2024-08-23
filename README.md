@@ -41,6 +41,47 @@ The LLaMA 2 model is pretrained and fine-tuned on 2 trillion tokens and contains
 
 - **Orchestration:** Langchain will orchestrate the retriever and generator. Langchain provides a specialized function to create the retriever-generator combination with minimal code.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Learn More
 
 - Check the **References** section for blog posts.
