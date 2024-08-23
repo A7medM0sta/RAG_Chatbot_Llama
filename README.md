@@ -1,6 +1,9 @@
 # RAG_Chatbot_Llama3
 
-# Introduction
+![LLAMA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40hellolasantha%2Fqna-rag-application-using-large-lanaguage-model-llm-langchain-ollama-llama2-vectordb-fbc87d3139f6&psig=AOvVaw0W5K3i4pZ9WfIZ55xA-3us&ust=1724488579816000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDFyNzaiogDFQAAAAAdAAAAABAE)
+
+## Introduction
+
 **Retrieval Augmented Generation (RAG)** has emerged as a powerful approach to enhancing the capabilities of Large Language Models (LLMs). While LLMs like Llama 2.0 excel at generating coherent text based on the data they were trained on, they can struggle when asked about information beyond their training data, leading to inaccuracies or hallucinations. RAG systems address this limitation by combining the generative abilities of LLMs with external data retrieval processes.
 
 In a RAG system, when a question is asked, a **retriever** component first searches for relevant information from a vector database—where the data has been encoded into vector representations. Once the relevant documents are retrieved, the **generator** component, typically a LLM, uses this information to generate accurate and contextually relevant responses.
